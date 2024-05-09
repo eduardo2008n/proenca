@@ -10,3 +10,8 @@ width: 940px;
 margin: 0 auto;
 
 
+
+nav{
+    position:absolute;
+    top: 110px;
+    riggt: 0;
